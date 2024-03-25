@@ -283,7 +283,7 @@ img {
   .wrapper {
     transform: scale(0.9);
   }
-  
+
   .wrapper img {
     height: 50px;
   }
@@ -316,11 +316,38 @@ img {
   }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
   .title h1 {
     font-size: 2rem;
     text-shadow: 2px 2px 0px #ffb650, 4px 4px 0px #ffd662, 6px 6px 0px #ff80bf,
       8px 8px 0px #ef5097, 10px 10px 0px #6868ac, 12px 12px 0px #90b1e0;
+  }
+
+  .profile img {
+    height: 80px;
+  }
+
+  .link img {
+    transform: scale(0.8);
+  }
+
+  .link h2 {
+    font-size: 0.8rem;
+  }
+
+  .profile img:hover {
+    height: 100px;
+  }
+
+  .button-container button {
+    margin: 0px;
+    border: 0;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .profile img:hover {
+    height: 80px;
   }
 }
 </style>

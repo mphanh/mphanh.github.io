@@ -53,7 +53,6 @@ input[type="radio"] {
 }
 
 .container {
-  /* background: rgb(255, 255, 255); */
   position: relative;
   height: 100vh;
   width: 100%;
@@ -234,6 +233,9 @@ input[type="radio"]:checked + label.btn::after {
 }
 
 @media only screen and (max-width: 500px) {
+  .container {
+    height: 70vh;
+  }
   .btn:nth-of-type(1) {
     left: 91%;
   }

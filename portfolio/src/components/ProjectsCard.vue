@@ -88,5 +88,9 @@ export default {
     width: 95%;
     height: 95%;
   }
+
+  .project-card:hover {
+    transform: scale(1);
+  }
 }
 </style>
