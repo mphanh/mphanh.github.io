@@ -1,0 +1,61 @@
+{
+  "backend": [
+    {
+      "name": "Java",
+      "image": "https://api.iconify.design/devicon:java.svg"
+    },
+    {
+      "name": "Python",
+      "image": "https://api.iconify.design/devicon:python.svg"
+    },
+    {
+      "name": "MongoDB",
+      "image": "https://api.iconify.design/devicon:mongodb.svg"
+    },
+    {
+      "name": "MySQL",
+      "image": "https://api.iconify.design/devicon:mysql.svg"
+    }
+  ],
+  "frontend": [
+    {
+      "name": "HTML",
+      "image": "https://api.iconify.design/devicon:html5.svg"
+    },
+    { "name": "CSS", "image": "https://api.iconify.design/devicon:css3.svg" },
+    {
+      "name": "JS",
+      "image": "https://api.iconify.design/devicon:javascript.svg"
+    },
+    {
+      "name": "Angular",
+      "image": "https://api.iconify.design/devicon:angular.svg"
+    },
+    {
+      "name": "ReactJS",
+      "image": "https://api.iconify.design/devicon:react.svg"
+    },
+    {
+      "name": "VueJS",
+      "image": "https://api.iconify.design/devicon:vuejs.svg"
+    }
+  ],
+  "devops": [
+    {
+      "name": "AWS",
+      "image": "https://api.iconify.design/devicon:amazonwebservices-wordmark.svg"
+    },
+    {
+      "name": "Docker",
+      "image": "https://api.iconify.design/devicon:docker.svg"
+    },
+    {
+      "name": "Jenkins",
+      "image": "https://api.iconify.design/devicon:jenkins.svg"
+    },
+    {
+      "name": "Kubernetes",
+      "image": "https://api.iconify.design/devicon:kubernetes.svg"
+    }
+  ]
+}

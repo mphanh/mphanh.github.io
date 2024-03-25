@@ -1,0 +1,20 @@
+{
+  "ProjectsArray": [
+    {
+      "id": 1,
+      "Title": "Project 1",
+      "About": "Lorem ipsum",
+      "ImageLink": "https://cdn.pixabay.com/photo/2018/05/18/15/30/web-design-3411373_1280.jpg",
+      "Link1": "https://github.com/mphanh/react-exercise-fe",
+      "Link2": ""
+    },
+    {
+      "id": 2,
+      "Title": "Project 2",
+      "About": "Lorem ipsum",
+      "ImageLink": "https://cdn.pixabay.com/photo/2018/05/18/15/30/web-design-3411373_1280.jpg",
+      "Link1": "https://github.com/mphanh/react-exercise-fe",
+      "Link2": ""
+    }
+  ]
+}
